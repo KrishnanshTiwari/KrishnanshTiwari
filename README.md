@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **KrishnanshTiwari/KrishnanshTiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +20,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnanshtiwari" alt="krishnanshtiwari" /></a> </p>
 -->
-<p align="left"> <a href="https://twitter.com/krishnansht2003" target="blank"><img src="https://img.shields.io/twitter/follow/krishnansht2003?logo=twitter&style=for-the-badge" alt="krishnansht2003" /></a> </p>
+- 📫 How to reach me **immridulsharma@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
