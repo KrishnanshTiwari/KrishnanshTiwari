@@ -1,26 +1,29 @@
 
-<!--
-**KrishnanshTiwari/KrishnanshTiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
+</div>
 
-Here are some ideas to get you started:
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/tara-chand-k-5544a2216/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=krishnanshtiwari&label=Profile%20views&color=0e75b6&style=flat" alt=""/>
+  <h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br/><br />
+<div align="center">  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Krishnansh Tiwari</h1>
-<h3 align="center">A full stack developer from India</h3>
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnanshtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="krishnanshtiwari" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=60C6F7&center=true&vCenter=true&width=435&lines=I+am+Krishnansh+Tiwari;I+am+MERN+Stack+Developer" alt="Typing SVG" /></a>
+</div>
+</h1>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnanshtiwari" alt="krishnanshtiwari" /></a> </p>
--->
-- 📫 How to reach me **krishnansht2003@gmail.com**
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 
 
 
